@@ -1,6 +1,6 @@
 # Homefun Template 
 
-Python aid for completing the Gamescrafters Homefun series. Incomplete functions are marked `# TODO`, but just completing these functions will not be enough for the later Homefuns. You are encouraged to change any module as you see fit.
+Python aid for completing the Gamescrafters Homefun series. Incomplete functions are marked `# TODO`, but just completing these functions may not be sufficient. You are encouraged to change any module as you see fit.
 
 ## Requirements
 
@@ -38,6 +38,3 @@ To do this, you can simply make a commit deleting everything in the repository t
 
 To do this, you may have to add a compilation step to `make run`.
 
-## Automatic Checking
-
-Credit for Homefuns is completion- and effort-based. When you create new commits, a suite of tests will automatically run. There is a single Github Classroom assignment for the entire Homefun series, so you will build on this repository for all Homefuns; as you complete more of them, you will pass more automatic checks.
